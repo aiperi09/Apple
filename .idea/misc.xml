@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Admin/AndroidStudioProjects/Apple/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Apple/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Apple/app/src/main/res/drawable/ic_lock.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Apple/app/src/main/res/layout/activity_main.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Apple/app/src/main/res/layout/activity_second.xml" value="0.165625" />
       </map>
     </option>
   </component>
